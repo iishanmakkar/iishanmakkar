@@ -66,8 +66,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iishanmakkar&show_icons=true&theme=radical&hide_border=true" height="150" alt="Ishan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iishanmakkar&layout=compact&theme=radical&hide_border=true" height="150" alt="Ishan's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iishanmakkar&theme=radical" height="150" alt="Ishan's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iishanmakkar&theme=radical" height="150" alt="Ishan's Top Languages" />
 </div>
 
 <div align="center">
