@@ -13,7 +13,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently focused on **DevOps & Data Engineering**
 - 🌱 I’m constantly learning new technologies and improving my skills
 - 📄 Know about my experiences: **[Check out my Resume](https://github.com/iishanmakkar/resume/blob/main/ishan_resume.pdf)**
 - 📫 How to reach me: **ishanmakkar651@gmail.com**
