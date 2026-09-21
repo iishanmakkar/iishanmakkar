@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishan Makkar</h1>
-<h3 align="center">A passionate DevOps and Data Engineering enthusiast from India 🚀</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=127EED&center=true&vCenter=true&width=500&lines=DevOps+Enthusiast;Data+Engineering+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=127EED&center=true&vCenter=true&width=500&lines=Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
