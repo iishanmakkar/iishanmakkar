@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m constantly learning new technologies and improving my skills
-- 📄 Know about my experiences: **[Check out my Resume](https://github.com/iishanmakkar/resume/blob/main/ishan_resume.pdf)**
+- 📄 Know about my experiences: **[Check out my Resume](https://github.com/iishanmakkar/resume/blob/main/Ishan_Makkar_Resume%20(7).pdf)**
 - 📫 How to reach me: **ishanmakkar651@gmail.com**
 
 ---
